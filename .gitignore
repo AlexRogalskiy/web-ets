@@ -1,0 +1,14 @@
+.DS_Store
+*.env
+.idea
+.tmp
+.yarnclean
+coverage
+dist
+node_modules
+npm-debug.log*
+package-lock.json
+temp
+*.log
+run.sh
+.vscode
